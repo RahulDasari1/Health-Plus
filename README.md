@@ -1,6 +1,9 @@
-## Health Plus Online Pharmacy Store
+## Health Plus - Online Pharmacy Store
 
 Welcome to Health Plus, your trusted online pharmacy offering a wide range of pharmaceutical products and health-related items. Whether you're looking for over-the-counter medications, vitamins, supplements, or personal care products, Health Plus strives to provide quality and convenience in one place.
+
+![image](https://github.com/RahulDasari1/Health-Plus/assets/101777162/b71b1897-797f-4404-b35c-d4b1a1188622)
+
 
 ### Features
 
